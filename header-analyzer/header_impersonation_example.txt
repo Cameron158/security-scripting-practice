@@ -1,0 +1,11 @@
+Received: from mail-relay.suspicious-domain.net (mail-relay.suspicious-domain.net. [45.33.12.90])
+        by mx.google.com with ESMTPS id x9-v6si1122334wmg.201.2026.07.20.11.10.02
+        for <recipient@company.com>;
+        Mon, 20 Jul 2026 11:10:02 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: domain of security-alert@suspicious-domain.net does not designate 45.33.12.90 as permitted sender) smtp.mailfrom=security-alert@suspicious-domain.net;
+       dkim=none header.i=@suspicious-domain.net;
+       dmarc=none header.from=suspicious-domain.net
+Received-SPF: SoftFail (google.com: domain of security-alert@suspicious-domain.net does not designate 45.33.12.90 as permitted sender) receiver=mx.google.com; client-ip=45.33.12.90;
+From: "Microsoft Security Team" <security-alert@suspicious-domain.net>
+Subject: Urgent: Verify your account within 24 hours
