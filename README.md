@@ -1,2 +1,2 @@
-# security-scripting-practice
+# security-scripting-portfolio
 Security Scripting Portfolio
