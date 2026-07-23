@@ -1,0 +1,11 @@
+username,last login date,admin status,mfa status
+jsmith,20260718,User,Enabled
+tmokoena,20260720,Admin,Enabled
+lvdberg,20260601,Admin,Disabled
+rpillay,20260315,User,Disabled
+svenkat,20260719,User,Enabled
+kmokgadi,20251201,Admin,Enabled
+adlamini,20260105,User,Disabled
+mnaidoo,20260721,Admin,Disabled
+btshabalala,20260710,User,Enabled
+csmith,20251020,User,Disabled
