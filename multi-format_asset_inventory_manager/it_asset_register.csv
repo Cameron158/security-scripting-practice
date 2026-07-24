@@ -1,0 +1,7 @@
+asset_tag,hostname,assigned_user,status,serial_number
+AT-001,KP-LAPTOP-01,Thabo Mokoena,Active,KP-SN-1001
+AT-002,KP-LAPTOP-02,John Smith,Active,KP-SN-1002
+AT-003,KP-LAPTOP-03,Ravi Pillay,Active,KP-SN-1003
+AT-007,KP-LAPTOP-07,Bongani Tshabalala,Active,KP-SN-1007
+AT-008,KP-LAPTOP-08,Lindiwe van der Berg,Active,KP-SN-1008
+AT-009,KP-LAPTOP-09,Meera Naidoo,Active,KP-SN-1009

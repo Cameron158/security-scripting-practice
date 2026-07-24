@@ -1,0 +1,38 @@
+[
+  {
+    "serialNumber": "KP-SN-1001",
+    "deviceName": "KP-LAPTOP-01",
+    "owner": "Thabo Mokoena",
+    "complianceStatus": "Active"
+  },
+  {
+    "serialNumber": "KP-SN-1002",
+    "deviceName": "KP-LAPTOP-02",
+    "owner": "Sarah Venter",
+    "complianceStatus": "Active"
+  },
+  {
+    "serialNumber": "KP-SN-1004",
+    "deviceName": "KP-LAPTOP-04",
+    "owner": "Kagiso Mokgadi",
+    "complianceStatus": "Active"
+  },
+  {
+    "serialNumber": "KP-SN-1005",
+    "deviceName": "KP-LAPTOP-05",
+    "owner": "Andile Dlamini",
+    "complianceStatus": "Active"
+  },
+  {
+    "serialNumber": "KP-SN-1008",
+    "deviceName": "KP-LAPTOP-08",
+    "owner": "Lindiwe van der Berg",
+    "complianceStatus": "Active"
+  },
+  {
+    "serialNumber": "KP-SN-1009",
+    "deviceName": "KP-LAPTOP-09",
+    "owner": "Meera Naidoo",
+    "complianceStatus": "Non-Compliant"
+  }
+]
