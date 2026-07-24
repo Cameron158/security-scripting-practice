@@ -32,10 +32,9 @@ Each exercise follows the same disciplined process:
 | [`access-audit/`](./access-audit) | Flags stale user accounts, admin + low-activity risk, and missing MFA from a user access export, sorted into risk tiers |
 | [`header-analyzer/`](./header-analyzer) | Parses raw email headers to extract sender IP and SPF/DKIM/DMARC results, detects brand-impersonation display names, and applies a deterministic phishing verdict table |
 | [`risk-scorer/`](./risk-scorer) | Automates risk register scoring (likelihood × impact) and sorts findings into Low/Medium/Medium-High/High tiers |
+| [`multi-format_asset_inventory_manager/`](./multi-format_asset_inventory_manager) | Merges asset exports from a CSV (IT register), JSON (MDM tool), and Excel (manual tracker) into one deduplicated inventory, normalizing serial numbers as the matching key and flagging cross-source conflicts (assigned user, status) for human review |
 
-More exercises will be added as this practice continues (planned: multi-format
-asset inventory merger, compliance evidence checklist generator, breach
-notification timer, data retention checker, vendor risk questionnaire scorer,
+More exercises will be added as this practice continues (planned: compliance evidence checklist generator, breach notification timer, data retention checker, vendor risk questionnaire scorer,
 network scan diff tool, and a chat export keyword flagger).
 
 ## Skills demonstrated
