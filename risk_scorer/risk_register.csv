@@ -1,0 +1,16 @@
+risk_id,risk_description,likelihood_rating,impact_rating
+R001,Unauthorized access to payroll database due to weak password policy,4,5
+R002,Employee accidentally emails salary data to wrong recipient,3,4
+R003,Third-party payroll vendor suffers a data breach,2,5
+R004,Backup restoration fails during disaster recovery test,2,4
+R005,Terminated employee retains system access due to delayed offboarding,3,3
+R006,Phishing email leads to compromised HR admin credentials,3,5
+R007,Outdated software version has unpatched known vulnerability,4,3
+R008,Physical office break-in leads to stolen laptop with local data,1,4
+R009,Misconfigured cloud storage bucket left publicly accessible,2,4
+R010,Insufficient logging prevents detection of unauthorized data export,3,3
+R011,Single point of failure - one employee holds all admin credentials,2,4
+R012,Spreadsheet-based leave tracking causes payroll calculation errors,4,2
+R013,No multi-factor authentication on finance system logins,3,4
+R014,"Data retention policy not enforced, old records never purged",2,2
+R015,Untested incident response plan for a payroll system outage,2,3
